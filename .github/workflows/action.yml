@@ -1,5 +1,5 @@
 name: A workflow for my Hello World file
-description: "Simple Hello World Action"
+description: "Greet someone"
 on: push
 jobs:
   build:
