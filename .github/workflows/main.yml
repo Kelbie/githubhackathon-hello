@@ -1,5 +1,4 @@
 name: Hello, World!
-description: Test
 on: push
 jobs:
   build:
