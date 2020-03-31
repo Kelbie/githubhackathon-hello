@@ -1,5 +1,4 @@
-name: A workflow for my Hello World file
-description: description
+name: Hello, World!
 on: push
 jobs:
   build:
